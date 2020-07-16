@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edtUsername" type="id" />
+    <item name="edtPassword" type="id" />
+    <item name="buttonLogin" type="id" />
+    <item name="buttonDaftar" type="id" />
+    <item name="tvNama" type="id" />
+    <item name="buttonLogout" type="id" />
+</resources>
